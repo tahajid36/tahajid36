@@ -26,6 +26,10 @@
     />
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tahajid-Ahmed/Tahajid-Ahmed/output/snake.svg" alt="snake animation" />
+</p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahajid36&show_icons=true&locale=en" alt="tahajid36" /></p>
