@@ -10,13 +10,15 @@
 <h3 align="left">About Me</h3>
 <p>Hi there! I'm Tahajid Ahmed. I'm a MERN Stack Web Developer. I enjoy turning ideas into real world web using modern web technologies, creating responsive UIs and exploring new tools that make development faster and better. </p>
 
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p>Feel free to reach me out on <a href="https://www.linkedin.com/in/tahajid-ahmed-251bb9396/">LinkedIn</a></p>
 
 <p align="left">
 </p>
-
+- 🌱 I’m currently learning **Axios JS**
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
