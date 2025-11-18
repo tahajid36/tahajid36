@@ -1,9 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahajid36&label=Profile%20views&color=0e75b6&style=flat" alt="tahajid36" /> </p>
+<img width="2240" height="1000" alt="Tahajid Ahmed" src="https://github.com/user-attachments/assets/3c45b551-7537-4a8d-b2b1-074f47e83e71" />
+<hr/>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24DDF7&center=true&vCenter=true&width=454&lines=Hello+!+I'm+Tahajid+Ahmed" alt="Typing SVG" />
   </a>
 </p>
+<hr/>
 <h3 align="left">About Me</h3>
 <p>Hi there! I'm Tahajid Ahmed. I'm a MERN Stack Web Developer. I enjoy turning ideas into real world web using modern web technologies, creating responsive UIs and exploring new tools that make development faster and better. </p>
 
@@ -27,8 +30,12 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tahajid-Ahmed/Tahajid-Ahmed/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahajid36/tahajid36/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/tahajid36/tahajid36/output/snake.svg" alt="snake animation" />
+  </picture>
 </p>
+
 
 
 
